@@ -1,0 +1,10 @@
+- [x] Project Overview included
+- [x] README.md present with setup instructions
+- [x] grade_calculator.py present and runnable with Python 3.8+
+- [x] Input validation implemented (0-100) using while loop
+- [x] Grading logic uses if-elif-else
+- [x] At least one function implemented (get_valid_marks, compute_grade_and_message)
+- [x] Encouraging messages for each grade
+- [x] test_cases.txt included
+- [x] Screenshots instructions included
+- [x] Documentation explains design choices

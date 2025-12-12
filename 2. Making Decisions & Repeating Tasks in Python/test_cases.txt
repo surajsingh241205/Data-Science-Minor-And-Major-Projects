@@ -1,0 +1,32 @@
+# Format: input -> expected output summary
+
+
+1) Input: name=Priya, marks=85
+Expected: Grade B, message contains 'Very good' or similar
+
+
+2) Input: name=Ravi, marks=92
+Expected: Grade A, message contains 'Excellent'
+
+
+3) Input: name=Anita, marks=74
+Expected: Grade C
+
+
+4) Input: name=Karan, marks=61
+Expected: Grade D
+
+
+5) Input: name=Sana, marks=45
+Expected: Grade F, encouraging recovery message
+
+
+6) Invalid: marks = -10 -> program should prompt again
+7) Invalid: marks = 101 -> program should prompt again
+8) Invalid: marks = 'eighty' -> program should prompt again
+
+
+
+
+Manual test steps:
+- Run program and enter each case. Confirm grade and message.
