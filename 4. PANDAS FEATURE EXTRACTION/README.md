@@ -13,7 +13,7 @@ A small project for feature extraction using pandas on an anime dataset.
 
 **Requirements**
 - Python 3.8+
-- Recommended packages: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `jupyter`.
+- Recommended packages: `pandas`, `numpy`,`jupyter`.
 
 Install packages (example):
 
@@ -34,13 +34,5 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 4. Create and validate new features.
 5. Export processed dataset for modeling.
 
-**Notes**
-- If you want a `requirements.txt`, tell me and I'll add one.
-- Adjust Python environment paths for your OS if needed.
-
 **Contributing**
 - Suggestions, bug reports, and improvements are welcome — open an issue or PR.
-
-**License & Contact**
-- Add a license file if you want to publish this repo publicly.
-- Contact: Suraj Singh (repository owner) — update this section if you want a different contact.
