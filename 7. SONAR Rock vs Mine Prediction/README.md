@@ -23,8 +23,6 @@
   - pandas
   - numpy
   - scikit-learn
-  - matplotlib
-  - seaborn
   - jupyter
 
 Install quickly with pip:
@@ -39,12 +37,6 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 - Train/test split and evaluation using classification models (examples in the notebook include Logistic Regression and tree-based models).
 - Evaluation metrics: accuracy, confusion matrix, and ROC where applicable.
 
-**Results**
-- The notebook contains model comparisons and evaluation plots. See the Evaluation section in the notebook for detailed metrics and insights.
-
 **Notes & Next steps**
 - You can try additional models, cross-validation, feature selection, or hyperparameter tuning to improve performance.
-- Consider adding a `requirements.txt` for reproducible installs.
 
-**Contact**
-- For questions or help, reach out to the project owner.
