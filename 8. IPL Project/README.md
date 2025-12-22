@@ -11,8 +11,6 @@ A concise exploratory data analysis and notebook project analyzing Indian Premie
 - Notebook
 - Results
 - Contributing
-- License
-- Contact
 
 ## Overview
 This project contains an exploratory analysis of IPL match and player data. The goal is to extract insights on team and player performance, visualize trends across seasons, and provide reproducible analysis in a Jupyter Notebook.
@@ -49,8 +47,3 @@ Key findings and plots are shown inside `IPL Project.ipynb`. You can export figu
 ## Contributing
 Contributions are welcome. Open an issue or submit a pull request with suggested improvements, additional analyses, or data cleaning steps.
 
-## License
-Specify a license for your project (e.g., MIT). Add a `LICENSE` file if you choose one.
-
-## Contact
-For questions or collaboration, please contact the project owner.
